@@ -1,0 +1,13 @@
+# Add Office DNS names here
+tx.exactasystems.com
+vpn-aws.exactasystems.com
+fl.exactasystems.com
+va.exactasystems.com
+nh-wan1.exactasystems.com
+nh-wan2.exactasystems.com
+ky.exactasystems.com
+wy.exactasystems.com
+#
+#
+# Add IT Team Member Dynamic DNS names here
+darrell.kristof.name
